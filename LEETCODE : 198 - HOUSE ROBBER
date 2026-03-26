@@ -1,0 +1,17 @@
+class Solution {
+    public int rob(int[] nums) {
+      return shanu( 0 , nums);
+    
+    }
+    int shanu( int i , int nums[]){
+          int n = nums.length;
+            if( i >=n)
+                return 0;
+int rob = nums[i] + shanu(i + 2, nums);
+
+        int skip = shanu(i + 1, nums);
+
+      
+        return Math.max(rob, skip);
+    }
+}
