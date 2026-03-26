@@ -1,0 +1,26 @@
+class Solution {
+    public int coinChange(int[] coins, int amount) {
+         int res =  count( 0 , coins , amount);
+         if( res  == Integer.MAX_VALUE)
+             res = -1;
+             return res;
+    }
+    int  count( int i , int [ ] nums , int amount){
+        int n = nums.length;
+         if( amount == 0){
+             return 0;
+         }
+         
+         if( amount <= 0 ||  i>= n ) 
+         return Integer.MAX_VALUE;;
+         int take = count( i  , nums , amount - nums[i]);
+         if (take != Integer.MAX_VALUE) {
+            take = 1 + take;  
+        }
+
+      
+        int nottake = count(i + 1, nums, amount);
+
+        return Math.min(take, nottake);
+    }
+}
