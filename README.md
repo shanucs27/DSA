@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shanucs27/DSA/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shanucs27/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/shanucs27/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/shanucs27/DSA/tree/master/0997-find-the-town-judge) |
 | [1701-average-waiting-time](https://github.com/shanucs27/DSA/tree/master/1701-average-waiting-time) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shanucs27/DSA/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/shanucs27/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/shanucs27/DSA/tree/master/0997-find-the-town-judge) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1701-average-waiting-time](https://github.com/shanucs27/DSA/tree/master/1701-average-waiting-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/shanucs27/DSA/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
