@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shanucs27/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/shanucs27/DSA/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shanucs27/DSA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/shanucs27/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shanucs27/DSA/tree/master/0143-reorder-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -50,5 +52,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shanucs27/DSA/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/shanucs27/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
