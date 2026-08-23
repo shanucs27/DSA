@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/shanucs27/DSA/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shanucs27/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1701-average-waiting-time](https://github.com/shanucs27/DSA/tree/master/1701-average-waiting-time) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shanucs27/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shanucs27/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/shanucs27/DSA/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/shanucs27/DSA/tree/master/1260-shift-2d-grid) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shanucs27/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/shanucs27/DSA/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/shanucs27/DSA/tree/master/1603-design-parking-system) |
 | [1701-average-waiting-time](https://github.com/shanucs27/DSA/tree/master/1701-average-waiting-time) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shanucs27/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Graph Theory
 |  |
 | ------- |
