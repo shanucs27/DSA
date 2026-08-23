@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shanucs27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shanucs27/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0997-find-the-town-judge](https://github.com/shanucs27/DSA/tree/master/0997-find-the-town-judge) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/shanucs27/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1701-average-waiting-time](https://github.com/shanucs27/DSA/tree/master/1701-average-waiting-time) |
 ## Two Pointers
 |  |
