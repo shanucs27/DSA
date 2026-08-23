@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shanucs27/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/shanucs27/DSA/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/shanucs27/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shanucs27/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shanucs27/DSA/tree/master/0189-rotate-array) |
 ## Matrix
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/shanucs27/DSA/tree/master/0046-permutations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/shanucs27/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
