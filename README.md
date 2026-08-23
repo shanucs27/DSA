@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shanucs27/DSA/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/shanucs27/DSA/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/shanucs27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/shanucs27/DSA/tree/master/0997-find-the-town-judge) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shanucs27/DSA/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/shanucs27/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shanucs27/DSA/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
@@ -101,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shanucs27/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/shanucs27/DSA/tree/master/0012-integer-to-roman) |
 | [0165-compare-version-numbers](https://github.com/shanucs27/DSA/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
