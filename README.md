@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shanucs27/DSA/tree/master/0225-implement-stack-using-queues) |
+| [1603-design-parking-system](https://github.com/shanucs27/DSA/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shanucs27/DSA/tree/master/0054-spiral-matrix) |
+| [1603-design-parking-system](https://github.com/shanucs27/DSA/tree/master/1603-design-parking-system) |
 | [1701-average-waiting-time](https://github.com/shanucs27/DSA/tree/master/1701-average-waiting-time) |
 ## Graph Theory
 |  |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shanucs27/DSA/tree/master/0079-word-search) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/shanucs27/DSA/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
