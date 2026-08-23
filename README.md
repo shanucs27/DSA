@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shanucs27/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shanucs27/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shanucs27/DSA/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/shanucs27/DSA/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/shanucs27/DSA/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shanucs27/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shanucs27/DSA/tree/master/0189-rotate-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shanucs27/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shanucs27/DSA/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/shanucs27/DSA/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/shanucs27/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/shanucs27/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shanucs27/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/shanucs27/DSA/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/shanucs27/DSA/tree/master/0165-compare-version-numbers) |
 ## Dynamic Programming
 |  |
@@ -141,8 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shanucs27/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/shanucs27/DSA/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/shanucs27/DSA/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shanucs27/DSA/tree/master/0029-divide-two-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shanucs27/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
