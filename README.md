@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shanucs27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shanucs27/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0997-find-the-town-judge](https://github.com/shanucs27/DSA/tree/master/0997-find-the-town-judge) |
+| [1260-shift-2d-grid](https://github.com/shanucs27/DSA/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shanucs27/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1701-average-waiting-time](https://github.com/shanucs27/DSA/tree/master/1701-average-waiting-time) |
 ## Two Pointers
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shanucs27/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shanucs27/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/shanucs27/DSA/tree/master/0079-word-search) |
+| [1260-shift-2d-grid](https://github.com/shanucs27/DSA/tree/master/1260-shift-2d-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shanucs27/DSA/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/shanucs27/DSA/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/shanucs27/DSA/tree/master/1603-design-parking-system) |
 | [1701-average-waiting-time](https://github.com/shanucs27/DSA/tree/master/1701-average-waiting-time) |
 ## Graph Theory
