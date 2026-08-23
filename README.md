@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shanucs27/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shanucs27/DSA/tree/master/0189-rotate-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shanucs27/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1768-merge-strings-alternately](https://github.com/shanucs27/DSA/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shanucs27/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/shanucs27/DSA/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/shanucs27/DSA/tree/master/0165-compare-version-numbers) |
+| [1768-merge-strings-alternately](https://github.com/shanucs27/DSA/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
