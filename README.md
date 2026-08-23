@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shanucs27/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shanucs27/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shanucs27/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shanucs27/DSA/tree/master/0054-spiral-matrix) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shanucs27/DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/shanucs27/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shanucs27/DSA/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/shanucs27/DSA/tree/master/0165-compare-version-numbers) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shanucs27/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/shanucs27/DSA/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/shanucs27/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shanucs27/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shanucs27/DSA/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shanucs27/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Sliding Window
 |  |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shanucs27/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/shanucs27/DSA/tree/master/0055-jump-game) |
 ## Quicksort
 |  |
