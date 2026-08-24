@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shanucs27/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/shanucs27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shanucs27/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/shanucs27/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/shanucs27/DSA/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/shanucs27/DSA/tree/master/1260-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shanucs27/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/shanucs27/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shanucs27/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shanucs27/DSA/tree/master/0189-rotate-array) |
+| [0973-k-closest-points-to-origin](https://github.com/shanucs27/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shanucs27/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shanucs27/DSA/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shanucs27/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/shanucs27/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -178,4 +181,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/shanucs27/DSA/tree/master/1603-design-parking-system) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shanucs27/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shanucs27/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shanucs27/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shanucs27/DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shanucs27/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
