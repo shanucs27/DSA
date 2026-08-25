@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shanucs27/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shanucs27/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/shanucs27/DSA/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/shanucs27/DSA/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/shanucs27/DSA/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shanucs27/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shanucs27/DSA/tree/master/0189-rotate-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shanucs27/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/shanucs27/DSA/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/shanucs27/DSA/tree/master/0118-pascals-triangle) |
 ## Quicksort
 |  |
 | ------- |
