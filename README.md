@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shanucs27/DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/shanucs27/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shanucs27/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shanucs27/DSA/tree/master/0048-rotate-image) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shanucs27/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/shanucs27/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shanucs27/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/shanucs27/DSA/tree/master/0073-set-matrix-zeroes) |
