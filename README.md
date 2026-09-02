@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shanucs27/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1701-average-waiting-time](https://github.com/shanucs27/DSA/tree/master/1701-average-waiting-time) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shanucs27/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3843-first-element-with-unique-frequency](https://github.com/shanucs27/DSA/tree/master/3843-first-element-with-unique-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shanucs27/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shanucs27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/shanucs27/DSA/tree/master/0997-find-the-town-judge) |
+| [3843-first-element-with-unique-frequency](https://github.com/shanucs27/DSA/tree/master/3843-first-element-with-unique-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/shanucs27/DSA/tree/master/1603-design-parking-system) |
+| [3843-first-element-with-unique-frequency](https://github.com/shanucs27/DSA/tree/master/3843-first-element-with-unique-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
