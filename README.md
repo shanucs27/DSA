@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shanucs27/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shanucs27/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shanucs27/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/shanucs27/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shanucs27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shanucs27/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/shanucs27/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shanucs27/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shanucs27/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/shanucs27/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shanucs27/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/shanucs27/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/shanucs27/DSA/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/shanucs27/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shanucs27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/shanucs27/DSA/tree/master/0997-find-the-town-judge) |
 ## Prefix Sum
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/shanucs27/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shanucs27/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shanucs27/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shanucs27/DSA/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/shanucs27/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/shanucs27/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shanucs27/DSA/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/shanucs27/DSA/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shanucs27/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/shanucs27/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Stack
@@ -175,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/shanucs27/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/shanucs27/DSA/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/shanucs27/DSA/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
 | ------- |
