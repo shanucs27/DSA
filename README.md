@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shanucs27/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shanucs27/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shanucs27/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/shanucs27/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shanucs27/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shanucs27/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shanucs27/DSA/tree/master/0056-merge-intervals) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shanucs27/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/shanucs27/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shanucs27/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/shanucs27/DSA/tree/master/0118-pascals-triangle) |
 ## Quicksort
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shanucs27/DSA/tree/master/0053-maximum-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/shanucs27/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
